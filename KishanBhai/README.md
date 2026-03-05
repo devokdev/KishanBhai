@@ -579,19 +579,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Support & Contact
 
-### **Get Help**
-- 📧 **Email**: support@kishanbhai.com
-- 💬 **Discord**: [Join our community](https://discord.gg/kishanbhai)
-- 📱 **WhatsApp**: +91-XXXXXXXXXX
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/KishanBhai/issues)
-
-### **Stay Connected**
-- 🌐 **Website**: [kishanbhai.com](https://kishanbhai.com)
-- 📱 **Mobile App**: Available on Google Play Store
-- 📺 **YouTube**: [KishanBhai Channel](https://youtube.com/kishanbhai)
-- 📘 **Facebook**: [KishanBhai Page](https://facebook.com/kishanbhai)
 
 ---
 
